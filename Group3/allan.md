@@ -1,3 +1,3 @@
 My name is Allan
 I like food. 
-All foods, except pizza. 
+However, I do not like pizza
